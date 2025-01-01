@@ -1,4 +1,4 @@
-### Kaggle_Retails_Orders_Analyst
+### Kaggle_Retails_Orders_Analysis
 
 **Data Analysis and SQL Insights with Python and SQL Server**
 
